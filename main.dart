@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 // This code is uploaded on my youtube channel: Sibi Seetha
-// https://www.youtube.com/channel/UCneNi9LE9JVhDcfeK42okJw/
+// https://youtu.be/A88XOSDy9Z8
 void main() {
   runApp(MyApp());
 }
